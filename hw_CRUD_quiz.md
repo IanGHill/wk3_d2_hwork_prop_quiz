@@ -8,7 +8,7 @@ In our Property Tracker application:
 
 Q1. Where are we instantiating instances of the `Property` class?
 
-In the console.pry file (property 1,2 & 3) 
+In the console.rb file (property 1,2 & 3) 
 
 Q2. Where are we defining the SQL that enables us to save the ruby `Property` object into the database?
 
